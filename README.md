@@ -1,6 +1,6 @@
 # Interaction-Merged Motion Planning: Effectively Leveraging Diverse Motion Datasets for Robust Planning [ICCV 2025]
 
-**Official PyTorch implementation of [*Interaction-Merged Motion Planning: Effectively Leveraging Diverse Motion Datasets for Robust Planning*] [ICCV 2025].**
+**Official PyTorch implementation of [*Interaction-Merged Motion Planning: Effectively Leveraging Diverse Motion Datasets for Robust Planning*](https://arxiv.org/abs/2507.04790) [ICCV 2025].**
 
 **Giwon Lee\***<sup>1</sup>, **Wooseong Jeong\***<sup>1</sup>, Daehee Park<sup>2</sup>, Jaewoo Jeong<sup>1</sup>, and Kuk-Jin Yoon<sup>1</sup>  
 <sup>1</sup>Visual Intelligence Lab., KAIST, Korea  
